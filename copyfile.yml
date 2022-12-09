@@ -8,4 +8,4 @@
         dest: /tmp
         owner: student
         group: root
-        mode: '0660'
+        mode: '0770'
